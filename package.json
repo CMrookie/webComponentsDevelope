@@ -4,11 +4,15 @@
   "description": "polymer webcomponents develope space",
   "main": "index.js",
   "dependencies": {
+    "del": "^2.2.2",
     "gulp": "^3.9.1",
     "polymer-cli": "^0.17.0",
     "vulcanize": "^1.15.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gulp-vulcanize": "^6.1.0",
+    "path": "^0.12.7"
+  },
   "scripts": {
     "test": "test"
   },
