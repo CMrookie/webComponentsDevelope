@@ -1,0 +1,25 @@
+{
+  "name": "web-components-develope",
+  "version": "0.0.1",
+  "description": "polymer webcomponents develope space",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "polymer-cli": "^0.17.0",
+    "vulcanize": "^1.15.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CMrookie/webComponentsDevelope.git"
+  },
+  "author": "rookie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CMrookie/webComponentsDevelope/issues"
+  },
+  "homepage": "https://github.com/CMrookie/webComponentsDevelope#readme"
+}
